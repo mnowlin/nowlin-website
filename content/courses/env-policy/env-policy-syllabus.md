@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-The most recent version of the [syllabus](files/EPspring19.pdf) is from spring 2019. 
+The most recent version of the [syllabus](EPspring19.pdf) is from spring 2019. 
 
 ## Course Description
 

@@ -3,6 +3,8 @@ title: Public Opinion
 summary: 
 date: "2019-06-12"
 
+tags:
+- Public Opinion
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

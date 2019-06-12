@@ -20,6 +20,9 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+tags:
+- Policymaking Process
+
 ---
 
 The policymaking process involves multiple actors making decisions across multiple institutions as well as multiple levels of government. As a result, the process is inherently complex. To better understand this complex process, scholars have developed multiple theories that address varying aspects of the policymaking process. In my work, I draw on several policy process theories to better understand policymaking when issues are scientifically and technically complex as well as politically divisive. Many issues within the environmental and energy domain are complex and divisive, however, most of my work has focused on climate change and nuclear energy. 
