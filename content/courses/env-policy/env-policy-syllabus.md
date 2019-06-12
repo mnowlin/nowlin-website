@@ -12,9 +12,13 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
+
+links:
+url_pdf: "files/EPspring19.pdf"
+
 ---
 
-The most recent version of the [syllabus](EPspring19.pdf) is from spring 2019. 
+The most recent version of the syllabus is from spring 2019 at the `PDF` tag. 
 
 ## Course Description
 
