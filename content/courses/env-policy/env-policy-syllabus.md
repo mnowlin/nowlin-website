@@ -15,6 +15,9 @@ weight: 1
 
 ---
 
+The syllabus is also available as a {{% staticref "files/EPspring19.pdf" %}}PDF{{% /staticref %}}.
+
+
 # Course Description
 
 From the CofC catalog: 

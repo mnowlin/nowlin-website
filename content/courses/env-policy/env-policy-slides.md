@@ -14,5 +14,7 @@ menu:
 weight: 2
 ---
 
-Below are the lecture slides from the environmental policy course. 
+Below are a few of the lecture slides from the environmental policy course. 
+
+* Introduction and Course Overview: {{% staticref "files/intro.pdf" %}}PDF{{% /staticref %}}
 

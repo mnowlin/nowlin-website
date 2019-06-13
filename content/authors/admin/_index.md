@@ -53,6 +53,6 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor of [political science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). I am also affiliated with the [Sustainability Literacy Institute](http://sustain.cofc.edu/sustainability-literacy-institute/index.php), a research fellow with the [Center for Public Choice and Market Process](http://sb.cofc.edu/centers/publicchoice/), and I am co-director of the [Environmental Policy Research Group](http://polisci.cofc.edu/student-research/environmental-policy-research-group/index.php) with [Dr. Annette Watson](http://polisci.cofc.edu/about/faculty-staff-listing/watson-annette.php).  
+I am an associate professor of [political science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). I am also affiliated with the [Sustainability Literacy Institute](http://sustain.cofc.edu/), a research fellow with the [Center for Public Choice and Market Process](http://sb.cofc.edu/centers/publicchoice/), and I am co-director of the [Environmental Policy Research Group](http://polisci.cofc.edu/student-research/environmental-policy-research-group/index.php) with [Dr. Annette Watson](http://polisci.cofc.edu/about/faculty-staff-listing/watson-annette.php).  
 
 My research and teaching interests are in public policy, with a specific interest in environmental and energy policy. Much of my work is focused on climate change and nuclear energy.

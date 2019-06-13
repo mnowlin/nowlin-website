@@ -5,6 +5,10 @@ authors:
 date: "2019-06-12"
 doi: ""
 
+social:
+- icon: book
+  icon_pack: fa
+
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
 
