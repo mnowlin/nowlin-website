@@ -1,7 +1,7 @@
 ---
 title: "Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration"
 authors:
-- Thaddieus W.Conner
+- Thaddieus W. Conner
 - admin
 - Thomas M. Rabovsky
 - Joseph T. Ripberger

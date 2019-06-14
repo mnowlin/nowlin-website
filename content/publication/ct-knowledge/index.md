@@ -5,7 +5,7 @@ authors:
 - Geoboo Song
 - admin
 - Michael D. Jones
-- Hank C. Jenkins- Smith
+- Hank C. Jenkins-Smith
 date: "2012-09-01"
 doi: ""
 
