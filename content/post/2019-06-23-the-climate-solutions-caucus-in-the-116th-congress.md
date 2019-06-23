@@ -13,7 +13,7 @@ authors: []
 lastmod: '2019-06-23T12:05:39-04:00'
 featured: no
 image:
-  caption: ''
+  caption: 'Ideology of Climate Solutions Caucus Members: 115th Congress'
   focal_point: ''
   preview_only: no
 projects: []
