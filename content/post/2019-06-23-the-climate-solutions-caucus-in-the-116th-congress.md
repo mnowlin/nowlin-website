@@ -19,7 +19,7 @@ image:
 projects: []
 ---
 
-![Ideology of Climate Solutions Caucus Members: 115th Congress](/img/figure6.4.jpg)
+<center>{{< figure src="/img/figure6.4.jpg" title="Ideology of Climate Solutions Caucus Members: 115th Congress" >}}</center>
 
 The Climate Solutions Caucus has returned in the House of Representatives for the 116th Congress. As originally conceived, the "Noah's Ark" caucus only allowed new members to join in bipartisan pairs, one Democrat and one Republican. The caucus grew to 90 members, 45 Democrats and 45 Republicans in the 115th Congress. As I show in my [book](https://www.matthewcnowlin.com/post/environmental-policymaking-book/), the Republican members tended to be more moderate than their co-partisans in the House. The caucus lost [about half of its Republican members in the November 2018 elections](https://www.rollcall.com/news/politics/midterms-climate-caucus-republicans), including Republican co-founder Carlos Curbelo (R-FL). 
 
