@@ -26,8 +26,8 @@ tags:
 - Nuclear Energy
 
 links:
-- name: DOI
-  url: 10.1016/j.enpol.2019.110888
+- name: Publisher
+  url: https://www.sciencedirect.com/science/article/pii/S0301421519304665 
   
 ---
 
