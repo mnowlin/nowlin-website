@@ -16,13 +16,13 @@
 [[main]]
     parent = "Research"
     name = "Overview"
-    url = "project"
+    url = "#project"
     weight = 1
 
 [[main]]
     parent = "Research"
     name = "Publications"
-    url = "publication/"
+    url = "publications/"
     weight = 2
 
 [[main]]
