@@ -19,7 +19,8 @@ header:
 <div class ="category-name">
 <h3>Book</h3>
 </div>
-{% assign bookByYear = site.publication | where: "publication_types", "5" | group_by_exp:"post", "post.date | date: '%Y'"  %}
+
+{% assign bookByYear = site.publication | where: "publication_types", "5" | group_by_exp:"date"  %}
 {% for year in bookByYear reversed%}
 
 
