@@ -6,7 +6,7 @@ date: "2019-06-12"
 doi: ""
 
 social:
-- icon: book
+- icon: book-alt
   icon_pack: fa
 
 # Schedule page publish date (NOT publication's date).
