@@ -20,7 +20,6 @@ header:
 <h3>Book</h3>
 </div>
 
-{% assign bookByYear = site.publication | where: "publication_types", "5" | group_by_exp:"date"  %}
-{% for year in bookByYear reversed%}
+
 
 
