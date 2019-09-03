@@ -142,7 +142,7 @@ sharing = false
   #   3: Card
   #   4: Citation (publications only)
   post_view = 1
-  publication_view = 1
+  publication_view = 4
   talk_view = 1
   date_format = "2006"
 
