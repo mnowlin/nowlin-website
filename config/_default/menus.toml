@@ -6,12 +6,30 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "Research"
-  url = "publication/"
-  weight = 20
+#  url = "publication/"
+  weight = 2
+
+[[menu.main]]
+    parent = "Research"
+    name = "Overview"
+    url = "#projects"
+    weight = 1
+
+[[menu.main]]
+    parent = "Research"
+    name = "Publications"
+    url = "publication/"
+    weight = 2
+
+[[menu.main]]
+    parent = "Research"
+    name = "CV"
+    url = "/files/nowlin-cv.pdf/"
+    weight = 3
 
 #[[main]]
 #  name = "Publications"
@@ -21,12 +39,12 @@
 [[main]]
   name = "Teaching"
   url = "courses/"
-  weight = 40
+  weight = 4
 
 [[main]]
   name = "Blog"
   url = "post/"
-  weight = 50
+  weight = 5
 
 # [[main]]
 #  name = "Courses"
