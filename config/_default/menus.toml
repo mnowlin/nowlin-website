@@ -13,19 +13,19 @@
 #  url = "publication/"
   weight = 2
 
-[[menu.main]]
+[[main]]
     parent = "Research"
     name = "Overview"
     url = "#projects"
     weight = 1
 
-[[menu.main]]
+[[main]]
     parent = "Research"
     name = "Publications"
     url = "publication/"
     weight = 2
 
-[[menu.main]]
+[[main]]
     parent = "Research"
     name = "CV"
     url = "/files/nowlin-cv.pdf/"
