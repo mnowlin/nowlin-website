@@ -22,7 +22,7 @@ Nowlin, Matthew C. 2019. <a href="/publication/env-book/" itemprop="url"><span i
 
 ## Journal Articles 
 
-Gupta, Kuhika, Matthew C. Nowlin, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. <a href="/publication/nuclear-mood/" itemprop="url"><span itemprop="name">Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data.</span></a> _Energy Policy_, forthcoming
+Gupta, Kuhika, Matthew C. Nowlin, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. <a href="/publication/nuclear-mood/" itemprop="url"><span itemprop="name">Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data.</span></a> _Energy Policy_
 
 Nowlin, Matthew C. and Thaddieus W. Conner. 2019. <a href="/publication/hot-rocks/" itemprop="url"><span itemprop="name">Hot Rocks that Shoot Ghost Bullets: Native American Perceptions of a Nuclear Waste Facility.</span></a> _Politics, Groups, and Identities_, 7(1): 21-38.
 

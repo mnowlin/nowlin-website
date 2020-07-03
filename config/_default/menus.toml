@@ -28,7 +28,7 @@
 [[main]]
     parent = "Research"
     name = "CV"
-    url = "/files/nowlin-cv.pdf/"
+    url = "/files/nowlin-cv-short.pdf/"
     weight = 3
 
 #[[main]]
@@ -42,7 +42,7 @@
   weight = 4
 
 [[main]]
-  name = "Blog"
+  name = "News & Notes"
   url = "post/"
   weight = 5
 
