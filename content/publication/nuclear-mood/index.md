@@ -9,7 +9,6 @@ authors:
 date: "2019-09-01"
 doi: ""
 
-image: ep.jpg
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
