@@ -1,7 +1,7 @@
 ---
 title: ""
 date: "2020-03-01"
-doi: "doi.org/10.1111/ssqu.12750"
+doi: ""
 
 # publication_types: ["2"]
 
@@ -9,10 +9,16 @@ doi: "doi.org/10.1111/ssqu.12750"
 # publication: "Politics, Groups, and Identities"
 # publication_short: ""
 
+links:
+- name: <i class="fas fa-lock"></i> Gated
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12750
+
+
 ---
 
-
 ### A Cultural Theory of Partisanship and Policy Attitudes
+
+**Nowlin, Matthew C**. and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." _Social Science Quarterly_, 101(2): 878-892, doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12750" itemprop="url">10.1111/ssqu.12750</span></a> 
 
 ##### Abstract 
 
@@ -28,10 +34,13 @@ We find that the group‐oriented cultural types (egalitarians and hierarchs) ar
 ###### Conclusion
 Grid‐group cultural theory is predictive of both partisanship and policy attitudes and partisanship mediates the influence of cultural worldviews on climate change risk, particularly for those types with group orientations.
 
-<div id="photo" style="text-align: left">
-<img style="vertical-align:middle; width:75px;height:100px; padding-right:10px" src="ssq.png"> 
-<span style="vertical-align:middle">Nowlin, Matthew C. and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." <i>Social Science Quarterly</i>, 101(2): 878-892.</span>
-</div>
+##### Theoretical Model 
+
+![](fig1.jpg)
+
+<!-- <img style="verical-align:middle; width:600px;height:300px" src="fig1.jpg"> --> 
+
+<!-- <img style="verical-align:middle; width:75px;height:100px" src="ssq.png"> -->
 
 
 

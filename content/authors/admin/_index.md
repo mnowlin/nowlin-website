@@ -40,9 +40,9 @@ social:
 - icon: amazon
   icon_pack: fab
   link: https://www.amazon.com/author/matthewnowlin
-# - icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0002-0513-3756  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0513-3756  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -62,3 +62,5 @@ user_groups:
 I am an associate professor of [political science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). I am also affiliated with the [Sustainability Literacy Institute](http://sustain.cofc.edu/) and co-director of the [Environmental Policy Research Group](http://polisci.cofc.edu/student-research/environmental-policy-research-group/index.php) with [Dr. Annette Watson](http://polisci.cofc.edu/about/faculty-staff-listing/watson-annette.php).  
 
 My research and teaching interests are in public policy, with a specific interest in environmental and energy policy. Much of my work is focused on climate change and nuclear energy.
+
+Download my [cv](files/nowlin-cv-short.pdf)
