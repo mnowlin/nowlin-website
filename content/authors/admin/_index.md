@@ -18,7 +18,7 @@ organizations:
   url: "http://polisci.cofc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include environmental policy and politics.
+# bio: My research interests include environmental policy and politics.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

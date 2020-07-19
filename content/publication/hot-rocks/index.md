@@ -18,7 +18,7 @@ links:
 
 ### 'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility.
 
-**Nowlin, Matthew C**. and Thaddieus W. Conner. 2019. "'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility." _Politics, Groups, and Identities_, 7(1): 21-38, doi: <a href="https://www.tandfonline.com/doi/abs/10.1080/21565503.2017.1304222" itemprop="url">10.1080/21565503.2017.1304222</span></a> 
+**Nowlin, Matthew C**. and Thaddieus W. Conner. 2019. "'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility." _Politics, Groups, and Identities_, 7(1): 21-38, doi: <a href="https://www.tandfonline.com/doi/abs/10.1080/21565503.2017.1304222" itemprop="url">`10.1080/21565503.2017.1304222`</span></a> 
 
 
 ##### Abstract 

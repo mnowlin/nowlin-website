@@ -21,7 +21,7 @@ links:
 
 ### Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge
 
-Ripberger, Joseph T., Geoboo Song, **Matthew C. Nowlin**, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. "Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge." _Social Science Quarterly_, 93(3): 713–731,  doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6237.2012.00884.x" itemprop="url">10.1111/j.1540-6237.2012.00884.x</span></a> 
+Ripberger, Joseph T., Geoboo Song, **Matthew C. Nowlin**, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. "Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge." _Social Science Quarterly_, 93(3): 713–731,  doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6237.2012.00884.x" itemprop="url">`10.1111/j.1540-6237.2012.00884.x`</span></a> 
 
 
 ##### Abstract 

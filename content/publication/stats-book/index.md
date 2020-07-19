@@ -15,7 +15,7 @@ links:
 
 ### Quantitative Research Methods for Political Science, Public Policy, and Public Administration 
 
-Jenkins-Smith, Hank C., Joseph T. Ripberger,  Gary Copeland, **Matthew C. Nowlin**,  Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. _Quantitative Research Methods for Political Science, Public Policy, and Public Administration_. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource, doi:  <a href="http://dx.doi.org/10.15763/11244/52244" itemprop="url">10.15763/11244/52244</span></a>  
+Jenkins-Smith, Hank C., Joseph T. Ripberger,  Gary Copeland, **Matthew C. Nowlin**,  Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. _Quantitative Research Methods for Political Science, Public Policy, and Public Administration_. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource, doi:  <a href="http://dx.doi.org/10.15763/11244/52244" itemprop="url">`10.15763/11244/52244`</span></a>  
 
 ![](book.jpg)
 

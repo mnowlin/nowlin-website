@@ -25,7 +25,7 @@ links:
 
 ### Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management
 
-**Nowlin, Matthew C**. 2016. "Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management." _Review of Policy Research_, 33(1): 51-70, doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12158" itemprop="url">10.1111/ropr.12158</span></a> 
+**Nowlin, Matthew C**. 2016. "Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management." _Review of Policy Research_, 33(1): 51-70, doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12158" itemprop="url">`10.1111/ropr.12158`</span></a> 
 
 
 ##### Abstract 

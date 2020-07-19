@@ -9,7 +9,7 @@ links:
 
 ### Tracking the Nuclear 'Mood’ in the United States: Introducing a Long Term Measure of Public Opinion About Nuclear Energy Using Aggregate Survey Data 
 
-Gupta, Kuhika, **Matthew C. Nowlin**, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." _Energy Policy_, 133, doi: <a href="https://www.sciencedirect.com/science/article/pii/S0301421519304665" itemprop="url">10.1016/j.enpol.2019.110888</span></a> 
+Gupta, Kuhika, **Matthew C. Nowlin**, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." _Energy Policy_, 133, doi: <a href="https://www.sciencedirect.com/science/article/pii/S0301421519304665" itemprop="url">`10.1016/j.enpol.2019.110888`</span></a> 
 
 
 ##### Abstract 

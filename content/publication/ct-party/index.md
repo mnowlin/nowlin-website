@@ -18,7 +18,7 @@ links:
 
 ### A Cultural Theory of Partisanship and Policy Attitudes
 
-**Nowlin, Matthew C**. and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." _Social Science Quarterly_, 101(2): 878-892, doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12750" itemprop="url">10.1111/ssqu.12750</span></a> 
+**Nowlin, Matthew C**. and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." _Social Science Quarterly_, 101(2): 878-892, doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12750" itemprop="url">`10.1111/ssqu.12750`</span></a> 
 
 ##### Abstract 
 
