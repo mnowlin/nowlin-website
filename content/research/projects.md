@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Research Areas"
-subtitle = "Below you can find more about this stuff"
+title = "Research Overview"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -21,17 +21,17 @@ subtitle = "Below you can find more about this stuff"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+#  [[content.filter_button]]
+#    name = "All"
+#    tag = "*"
   
-  [[content.filter_button]]
-    name = "Policymaking Process"
-    tag = "Policymaking Process"
+#  [[content.filter_button]]
+#    name = "Policymaking Process"
+#    tag = "Policymaking Process"
   
-  [[content.filter_button]]
-    name = "Public Opinion"
-    tag = "Public Opinion"
+#  [[content.filter_button]]
+#    name = "Public Opinion"
+#    tag = "Public Opinion"
 
 # [[content.filter_button]]
 #    name = "Other"

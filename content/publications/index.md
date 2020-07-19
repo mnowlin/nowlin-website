@@ -16,13 +16,13 @@ header:
 
 ## Book 
 
-<i class="fas fa-book"></i> Nowlin, Matthew C. 2019. <a href="/publication/env-book/" itemprop="url"><span itemprop="name">Environmental Policymaking in an Era of Climate Change.</span></a> New York, NY: Routledge. 
+Nowlin, Matthew C. 2019. <a href="/publication/env-book/" itemprop="url"><span itemprop="name">Environmental Policymaking in an Era of Climate Change.</span></a> New York, NY: Routledge. 
 
 ***
 
 ## Journal Articles 
 
-<i class="far fa-file"></i> Nowlin, Matthew C., Kuhika Gupta, and Joseph T. Ripberger. 2020. <a href="/publication/carbon-tax/" itemprop="url"><span itemprop="name">Revenue Use and Public Support for a Carbon Tax. </span></a> _Envrionmental Research Letters_, forthcoming
+Nowlin, Matthew C., Kuhika Gupta, and Joseph T. Ripberger. 2020. <a href="/publication/carbon-tax/" itemprop="url"><span itemprop="name">Revenue Use and Public Support for a Carbon Tax. </span></a> _Envrionmental Research Letters_, forthcoming
 
 Nowlin, Matthew C. and Thomas M. Rabovsky. 2020. <a href="/publication/ct-party/" itemprop="url"><span itemprop="name">A Cultural Theory of Partisanship and Policy Attitudes.</span></a> _Social Science Quarterly_, 101(2): 878-892.
 

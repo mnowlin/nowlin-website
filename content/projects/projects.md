@@ -2,11 +2,11 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Research Areas"
-subtitle = "Below you can find more about this stuff"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -24,14 +24,32 @@ subtitle = "Below you can find more about this stuff"
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
+
+  [[content.filter_button]]
+    name = "Climate Change"
+    tag = "climate change"
+
+  [[content.filter_button]]
+    name = "Cultural Theory"
+    tag = "cultural theory"
+    
+  [[content.filter_button]]
+    name = "Deliberation"
+    tag = "deliberation"
+
+  [[content.filter_button]]
+    name = "Energy"
+    tag = "energy"
+
+  [[content.filter_button]]
+    name = "Natural Hazards"
+    tag = "natural hazards"
+
   [[content.filter_button]]
     name = "Policymaking Process"
-    tag = "Policymaking Process"
+    tag = "policymaking process"
   
-  [[content.filter_button]]
-    name = "Public Opinion"
-    tag = "Public Opinion"
+  
 
 # [[content.filter_button]]
 #    name = "Other"
@@ -79,4 +97,4 @@ subtitle = "Below you can find more about this stuff"
 +++
 
 
-Broadly speaking, my research addresses questions related to the policymaking process and public opinion. More information is available at the links below. 
+Broadly speaking, my research addresses questions related to the policymaking process and public opinion. More information about my specific areas of research including publications, working papers, and talks is available at the links below. 
