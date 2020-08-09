@@ -1,0 +1,260 @@
+---
+name: Matthew C. Nowlin
+position: "College of Charleston"
+address: "Department of Political Science, 114 Wentworth Charleston, SC 29414"
+phone: 843-953-0279
+www: matthewcnowlin.com
+email: "nowlinmc@cofc.edu"
+twitter: nowlin_matt
+github: mnowlin
+date: "`r format(Sys.time(), '%B %Y')`"
+headcolor: 414141
+output: vitae::awesomecv
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(vitae)
+```
+
+# Academic Appointments 
+* Associate Professor of Political Science, College of Charleston \hspace*{\fill} 2019-Present
+* Faculty Affiliate, Sustainability Literacy Institute, College of Charleston \hspace*{\fill} 2017-Present
+* Research Fellow, Center for Public Choice and Market Process, College of Charleston \hspace*{\fill} 2014-2019
+* Assistant Professor of Political Science, College of Charleston \hspace*{\fill} 2013-2019
+* Graduate Research Assistant, Center for Applied Social Research, University of Oklahoma \hspace*{\fill} 2008-2013
+
+
+# Education
+* Ph.D.,  Political Science, University of Oklahoma \hspace*{\fill} 2013 
+    * Fields: Public Policy, Public Administration, American Politics
+* M.A., Political Science, University of Central Oklahoma \hspace*{\fill} 2008
+    * Emphasis: Public Affairs 
+* B.A., Psychology, University of Central Oklahoma \hspace*{\fill} 2003
+
+
+# Publications 
+<!-- Research Interests: Policymaking Process, Energy and Environmental Policy and Politics, Policy and Public Opinion -->
+
+## Books 
+* Nowlin, Matthew C. 2019. \textit{Environmental Policymaking in an Era of Climate Change}. New York, NY: Routledge. 
+
+## Journal Articles 
+* Nowlin, Matthew C. 2020. "Policy Learning and Information Processing." _Policy Studies Journal_, forthcoming. 
+* Nowlin, Matthew C. and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." _Social Science Quarterly_, 101(2): 878-892.
+* Gupta, Kuhika, Matthew C. Nowlin, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." _Energy Policy_, 133: 
+* Nowlin, Matthew C. and Thaddieus W. Conner. 2019. ```Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility.'' _Politics, Groups, and Identities_, 7(1): 21-38.
+* Conner, Thaddieus W., Matthew C. Nowlin, Thomas M. Rabovsky, and Joseph T. Ripberger. 2016.  ``Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration.'' _Public Administration_, 94(4): 915-932.
+* Nowlin, Matthew C. 2016. ``Modeling Issue Definitions using Quantitative Text Analysis.'' _Policy Studies Journal_, 44(3): 309-331.
+* Nowlin, Matthew C. 2016. ``Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management.'' _Review of Policy Research_, 33(1): 51-70. 
+* Ripberger, Joseph T., Geoboo Song, Matthew C. Nowlin, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. ``Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge.'' _Social Science Quarterly_, 93(3): 713–731.
+* Goebbert, Kevin, Hank C. Jenkins-Smith, Kim Klockow, Matthew C. Nowlin, and Carol L. Silva. 2012. ``Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns.'' _Weather, Climate, and Society_, 4(2): 132–144.
+* Nowlin, Matthew C. 2011. ``Theories of the Policy Process: State of the Research and Emerging Trends.'' _Policy Studies Journal_, 39(s1): 41–60.
+    * _Excerpted in_: Theodoulou, Stella Z., and Matthew A. Cahn (eds). 2013. \textit{Public Policy: The Essential Readings}. 2nd Edition. Pearson: New York, NY. pgs. 190--195
+* Jenkins-Smith, Hank C., Carol L. Silva, Carol L., Matthew C. Nowlin, and Grant deLozier. 2011. ``Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility.'' _Risk Analysis_, 31(4): 629–644. 
+* Nowlin, Matthew C. 2008. ``The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families.''  _Oklahoma Politics_, Vol. 17: 111-131.
+
+## Conference Proceedings 
+* Nowlin, Matthew C. 2015. ``Partisanship, Information, and Public Opinion about Yucca Mountain.'' In _Proceedings of the 15th International High-Level Radioactive Waste Management Conference_, 226-231. American Nuclear Society. 
+
+## Professional Reports
+* Jenkins-Smith, Hank C., Kuhika Gupta, Carol L. Silva, Kerry G. Herron, Joseph T. Ripberger, **Matthew Nowlin**, Rob P. Rechard. 2014. "Insights on Conducting Consent--Based Siting of Radioactive Waste Management Facilities: Evidence from a Nationwide Survey of US Residents", _U.S. Department of Energy, Nuclear Fuel Storage and Transportation Planning Project_, Report Number: FCRD-NFST-2014-000087.
+* Jenkins-Smith, Hank C., Carol L. Silva, Kerry G. Herron, Kuhika G. Ripberger, **Matthew Nowlin**, Joseph Ripberger. 2013. "Public Preferences Related to Consent--Based Siting of  Radioactive Waste Management Facilities for Storage and Disposal: Analyzing Variations over Time, Events, and Program  Designs", _Sandia National Laboratory_, Report Number: FCRD-NFST-2013-000076; SAND 2013-0032P.
+* Jenkins-Smith, Hank C., Carol Silva, Rob P. Rechard, Kuhika Gupta, **Matthew C. Nowlin**, Joseph Ripberger, Savannah Collins, 
+Mark James, Geoboo Song, and Sarah Trousset. 2011. "Perspectives on Nuclear Waste Management: Fuel Cycle Research and Development",  
+_Sandia National Laboratory_, Report Number: FCRD-USED-2011-000334.
+
+## Book Reviews 
+* Nowlin, Matthew C. 2018. "Improving Governance of Risk and Uncertainty." _Journal of Public Administration Research and Theory_, 28(1): 158-160.  
+
+## Other Publications 
+* Jenkins-Smith, Hank C., Joseph T. Ripberger,  Gary Copeland, Matthew C. Nowlin,  Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. _Quantitative Research Methods for Political Science, Public Policy, and Public Administration_. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource. DOI: \url{http://dx.doi.org/10.15763/11244/52244}
+
+## In Progress 
+* Nowlin, Matthew C., Kuhika Gupta, and Joseph T. Ripberger. "Revenue Use and Public Support for a Carbon Tax." _Revise and Resubmit_, Envrionmental Research Letters
+* Wehde, Welsey and Matthew C. Nowlin. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public." _Under review_ 
+
+# Research Funding 
+## External Funding 
+* _Can Deliberative Discussions Lay a Foundation for Integrated Decision-Making Networks_?, Gulf Research Program of the National Academies of Sciences, Engineering, and Medicine, 2016--2018, Co-PI with Susan Lovelace and Justin Reedy, $259,414.00. 
+* _Understanding Perceptions of Climate Change in South Carolina’s Coastal Communities: An Approach using Cultural Cognition and Deliberative Polling_, South Carolina Sea Grant Consortium, 2014--2015, $25,000.00.
+
+## Internal (College of Charleston) Funding 
+* _Stakeholder Collaboration in Climate Change Planning and Decision-Making Networks_, Center for Public Choice and Market Process, School of Business, College of Charleston, 2018--2019. $5,040.00. 
+* _Risk, Resilience, and Environmental Justice_, Sustainability Literacy Institute at the College of Charleston, Summer 2018. $3,000.00.
+* _Public Support for a Carbon Tax to Address Climate Change_, Center for Public Choice and Market Process, School of Business, College of Charleston,
+  2017--2018. $7,000.00. 
+* _Institutional Diversity in Dealing with Sea-Level Rise in South Carolina_, Sustainability Literacy Institute at the College of Charleston}, Summer and Fall 2017. $2,000.00.
+* _The Political Economy of Climate Change Governance in the United States_, Center for Public Choice and Market Process, School of Business, College of Charleston,
+  2016--2017. $7,000.00. 
+* _Understanding Perceptions of Climate Change in Charleston: An Approach using Cultural Cognition and Deliberative Democracy_, with \underline{Lorna Parkinson}, Student/Faculty Research Development Funding, Master's of Environmental Studies Program, College of Charleston, 2014--2015. $2,500.00.
+* _Congressional Hearings and the Collection of Information: Committee Chairs and the Politics of Climate Change_, Center for Public Choice and Market Process, School of Business, College of Charleston, 2014--2015. \$7,000.00. 
+
+# Public Talks
+* _Public Opinion About Climate Change in South Carolina_, Coastal and Environmental Law Summit. Charleston, SC. November 2019. 
+* _Climate Change: Science, Policy, and Politics_, Science Cafe: Charleston County Public Library, Hurd/St. Andrews Branch. Charleston, SC. October 2019.
+* _Carbon Tax and Public Opinion_, Panel discussion "Climate Change: Is A Carbon Tax A Solution", College of Charleston. Charleston, SC. October 2019.
+* _The Policy and Politics of Climate Change_, Charleston County Democratic Women. Charleston, SC. November 2017.
+* _Understanding Climate Change_, Charleston County Public Library. Charleston, SC. August 2017.
+
+# Academic and Professional Conferences 
+* American Political Science Association \hspace*{\fill} 2014, 2016, 2018-2019 
+* Carolinas Climate Resilience Conference \hspace*{\fill} 2016
+* Midwest Political Science Association \hspace*{\fill} 2009-2011, 2014-2019
+<!-- * National Nuclear Fuel Cycle Summit \hspace*{\fill} 2012 --> 
+* Public Choice Society \hspace*{\fill} 2014
+* Social Coast Forum \hspace*{\fill} 2018, 2020
+<!-- * Used Fuel Management Conference \hspace*{\fill} 2014 --> 
+* Western Political Science Association \hspace*{\fill} 2015, 2019
+
+# Teaching and Advising 
+## Courses 
+* Research and Management in Environmental Organizations (graduate)
+* Public Policy (graduate and undergraduate)
+* American Government
+* The Nuclear Option: The Politics of Nuclear Energy in the United States
+* Doing Research in Politics
+* Bureaucratic Politics and Policy
+* Environmental Policy
+* Sustainable Resource Management 
+* Undergraduate Capstone: Information and Policymaking
+* Undergraduate Capstone: Climate Change
+
+## Thesis and Internship Advisor
+```{=latex} 
+\begin{minipage}[t]{.5\linewidth}
+  \begin{itemize}
+\item Mari Bishop (MES, thesis, 2015) 
+\item Lorna Parkinson (MES, thesis, 2015)
+\item Julianna Marie (MPA, thesis, 2015)
+\item Aaron Holly (MES, internship, 2016)
+\item Amanda Corll (MES, internship, 2017)
+\item Katherine Faith (MES/MPA, internship, 2017)
+\item Seanna Kautz (MES, thesis 2017)
+\item Zachary Steinkoenig (MES, thesis, 2018)
+\end{itemize}
+\end{minipage}%
+\begin{minipage}[t]{.5\linewidth}
+  \begin{itemize}
+\item Rachel Hawes (MES, thesis, 2018)
+\item Lee Bundrick (MES/MPA, thesis, 2019)
+\item Eliza Nixon (MES/MPA, internship, 2019)
+\item Ina Ivanova (MES/MPA, thesis, in progress)
+\item Anna Kimmelblatt (MES, thesis, in progress)
+\item Kristin Sherlock (MES, thesis, in progress)
+\end{itemize}
+\end{minipage}
+```
+
+## Thesis and Internship Committee Member 
+```{=latex}
+\begin{minipage}[t]{.5\linewidth}
+  \begin{itemize}
+\item Friedrich Knuth (MES, 2014)
+\item Racheal Bassett (MES, 2015)
+\item Jennifer Gross (MES, 2015)
+\item Nicole Montey (MES, 2015)
+\item Ashlyn Hochschild (MES, 2016)
+\item Sarah Myers (MES, 2016)
+\item Katilyn Beidler (MES, 2016)
+\item Sarah Byce (MES, 2016)
+\item Ashley Schnitker (MES, 2016)
+\item Michelle Franco (MES, 2016)
+\item Megan Schwab (MPA, 2016)
+\item Alex Miller (MES, 2017)
+\item Reed Rayborn (MES, 2017)
+\item Armon Hanks (MES, 2017)
+\end{itemize}
+\end{minipage}%
+\begin{minipage}[t]{.5\linewidth}
+  \begin{itemize}
+\item Kenda Conley (MES/MPA, 2017)
+\item Timothy Boatwright (MES, 2018)
+\item Stacey Weinstock (MES, 2018)
+\item Nicholas Rubin (MES/MPA, 2018)
+\item Nirav Gandhi (MES, 2018)
+\item Aston Bashar (MES/MPA, 2019)
+\item Lucas Hernandez (MES/MPA, 2019)
+\item Joey Coz (MES/MPA, 2019)
+\item Angela Brown (MES, in progress)
+\item Kelli Coleman (MES, in progress) 
+\item Lucy Davis (MES/MPA, in progress)
+\item Jamileh Soueidan (MES/MPA, in progress)
+\item Chloe VanderMolen (MES/MPA, in progress)
+\end{itemize}
+\end{minipage}
+```
+
+## Bachelor's Essay Advisor
+* Kacey Hirshfeld (Marine Biology, 2018)
+* Nicole Popp (Political Science, 2018)
+* Bailey Jackson (Political Science, in progress)
+
+# Service 
+## Discipline 
+* Article and Book Reviews
+
+```{=latex}
+\begin{minipage}[t]{.5\linewidth}
+  \begin{itemize}
+    \item American Politics Research
+    \item Climatic Change
+    \item Energy Policy
+    \item Environmental Politics
+    \item Journal of Public Policy
+    \item Oxford University Press
+    \item Public Administration
+    \end{itemize}
+\end{minipage}%
+\begin{minipage}[t]{.5\linewidth}
+ \begin{itemize}    
+    \item Publius
+    \item Policy Sciences
+    \item Policy Studies Journal 
+    \item Review of Policy Research
+    \item Risk Analysis
+    \item Social Forces
+    \item Social Science Quarterly
+    \end{itemize}
+\end{minipage}
+```
+\vspace{0.1in}
+* Grant Reviews
+
+```{=latex}
+\begin{minipage}[t]{.5\linewidth}
+  \begin{itemize}
+    \item California Sea Grant
+    \item National Science Foundation
+    \end{itemize}
+\end{minipage}%
+```
+
+## Department
+* Geography Committee \hspace*{\fill} 2019-Present 
+* Graduate School Advisor \hspace*{\fill} 2016-2019
+* Library Liaison \hspace*{\fill} 2016-2018 
+* Awards Committee \hspace*{\fill} 2014-2016
+* Curriculum Committee \hspace*{\fill} 2013-2014, Spring 2019
+
+## Programs 
+* Environmental and Sustainability Studies Undergraduate Minor Steering Committee \hspace*{\fill} 2015-Present
+* M.S. Environmental Studies Admissions Committee \hspace*{\fill} 2013-Present
+* Master of Public Administration Faculty Committee \hspace*{\fill} 2013-Present
+
+## College of Charleston 
+* Grievance Committee \hspace*{\fill} 2017-2018
+* Honor Board \hspace*{\fill} 2016-2017 
+
+# Additional Education
+* _A Practical Introduction to Bayesian Statistical Modeling_. Instructor: Simon Jackman, Winter Political Methodology Workshop, Texas A&M University, January 2011. 
+* _Geo-Spatial Summer Institute_. Topics: Remote Sensing, GPS, and Geographic Information Systems, University of Oklahoma, May 2009.
+
+# Professional Experience
+* Risk Communication Research Assistant, **Sandia National Laboratory** \hspace*{\fill} May 2008-August 2008
+* Statistical Research Specialist, **Oklahoma Employment Security Commission** \hspace*{\fill} 2006-2007
+* Social Service Specialist, **Oklahoma Department of Human Services** \hspace*{\fill} 2005-2006
+
+
