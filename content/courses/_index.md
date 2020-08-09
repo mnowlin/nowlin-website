@@ -29,7 +29,7 @@ Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most 
 * [The Nuclear Option: The Politics of Nuclear Energy in the US](syllabi/FYEsyllabus.pdf)
 * [Doing Research in Politics](syllabi/DRPsyllabus.pdf)
 * [Introduction to Public Administration](syllabi/POLI210-syllabus-final.pdf)
-* [Introduction to Public Policy](POLI211-syllabus-final.pdf)
+* [Introduction to Public Policy](syllabi/POLI211-syllabus-final.pdf)
 * [Environmental Policy](syllabi/EPspring19.pdf)
 * [Capstone: Information and Policymaking](syllabi/CPsyllabus.pdf) 
 
