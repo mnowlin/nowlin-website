@@ -25,11 +25,11 @@
     url = "publications/"
     weight = 2
 
-[[main]]
-    parent = "Research"
-    name = "CV"
-    url = "/files/nowlin-cv-short.pdf/"
-    weight = 3
+#[[main]]
+#    parent = "Research"
+#    name = "CV"
+#    url = "/files/nowlin-cv/nowlin-cv-short.pdf/"
+#    weight = 3
 
 #[[main]]
 #  name = "Publications"

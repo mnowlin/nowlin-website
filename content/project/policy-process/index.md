@@ -27,6 +27,8 @@ tags:
 
 ### Publications 
 
+<i class="far fa-file"></i> <a href="/publication/policy-learning/" itemprop="url"><span itemprop="name">Policy Learning and Information Processing. </span></a>
+
 <i class="fas fa-book"></i> <a href="/publication/env-book/" itemprop="url"><span itemprop="name">Environmental Policymaking in an Era of Climate Change.</span></a> 
 
 <i class="far fa-file"></i> <a href="/publication/ct-managers/" itemprop="url"><span itemprop="name">Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration.</span></a>

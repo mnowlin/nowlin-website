@@ -17,7 +17,7 @@ links:
 
 ### Revenue Use and Public Support for a Carbon Tax
 
-**Nowlin, Matthew C.**, Kuhika Gupta, and Joseph T. Ripberger. 2020. "Revenue Use and Public Support for a Carbon Tax." _Envrionmental Research Letters_, forthcoming, doi: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ab92c3" itemprop="url">`10.1088/1748-9326/ab92c3`</span></a> 
+**Nowlin, Matthew C.**, Kuhika Gupta, and Joseph T. Ripberger. 2020. "Revenue Use and Public Support for a Carbon Tax." _Envrionmental Research Letters_, 15(8), doi: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ab92c3" itemprop="url">`10.1088/1748-9326/ab92c3`</span></a> 
 
 
 ##### Abstract 

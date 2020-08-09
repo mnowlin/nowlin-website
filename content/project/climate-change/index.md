@@ -1,29 +1,22 @@
 ---
-title: Climate Change
-summary:
-date: "2020-04-21T00:00:00Z"
+title: "Climate Change"
+summary: 
+date: "2020-04-21"
 
-# Optional external URL for project (replaces project detail page).
-# external_link: http://example.org
-
-# image:
-#  caption: Photo by Toa Heftiba on Unsplash
-#  focal_point: Smart
-
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/nowlin_matt
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-tags:
+tags: 
 - climate change
 
 ---
+
+### Talks 
+
+<i class="fas fa-microphone"></i> Climate Change: Science, Policy, and Politics. _Charleston County Public Library_, October 2019. <i class="fas fa-file-pdf"></i> [slides](library2019.pdf) 
+
 
 ### Publications 
 

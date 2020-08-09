@@ -25,11 +25,16 @@ tags:
 
 ---
 
+### Talks 
+
+<i class="fas fa-microphone"></i> Cultural Theory and Cultural Cognition. _M.S. in Environmental Studies Core Seminar_, January 2019. <i class="fas fa-file-pdf"></i> [slides](mes2019.pdf) 
+
+
 ### Publications 
 
-<i class="fas fa-book"></i> <a href="/publication/env-book/" itemprop="url"><span itemprop="name">Environmental Policymaking in an Era of Climate Change.</span></a> 
-
 <i class="far fa-file"></i> <a href="/publication/ct-party/" itemprop="url"><span itemprop="name">A Cultural Theory of Partisanship and Policy Attitudes.</span></a>
+
+<i class="fas fa-book"></i> <a href="/publication/env-book/" itemprop="url"><span itemprop="name">Environmental Policymaking in an Era of Climate Change.</span></a> 
 
 <i class="far fa-file"></i> <a href="/publication/ct-managers/" itemprop="url"><span itemprop="name">Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration.</span></a>
 

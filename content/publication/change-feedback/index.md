@@ -17,7 +17,7 @@ doi: ""
 links:
 - name: <i class="fas fa-lock"></i> Gated
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ropr.12158
-- name: <i class="fab fa-github"></i> Code 
+- name: <i class="fab fa-github"></i> Materials 
   url: https://github.com/mnowlin/PolicyChange
 
 

@@ -1,40 +1,38 @@
 ---
-title: Teaching
-layout: docs  # Do not modify.
+title: "Teaching"
+# layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+#  caption: ""
+#  image: ""
 ---
 
 <!-- ![](me.jpg) --> 
 
 At the [College of Charleston](http://cofc.edu/), I have had the opportunity to teach courses at every level from freshman to a senior capstone course to graduate courses. Many of the courses I teach serve curriculum needs in several programs including political science, public administration, and environmental and sustainability studies. Regardless of the level, I try to guide students in becoming sophisticated users of information and engaged participants in social and political life.
 
-See below for the most recent syllabi for the various courses I have taught. 
+### Current Courses 
 
-## Undergraduate 
+<a href="/courses/capstone/" itemprop="url"><span itemprop="name">**POLI 405**: Capstone: Climate Change</span></a>
 
-* **POLI 101**: American Government: {{% staticref "files/AGfall18.pdf" %}}PDF{{% /staticref %}}
+<a href="/courses/policy602/" itemprop="url"><span itemprop="name">**EVSS/PUBA 602**: Public Policy</span></a>
 
-* **POLI 102**: Contemporary Political Issues: Climate Change: {{% staticref "files/POLI102-syllabus-final.pdf" %}}PDF{{% /staticref %}} 
+### Past Courses 
 
-* **FYSE 131**: The Nuclear Option: The Politics of Nuclear Energy in the US: {{% staticref "files/FYEsyllabus.pdf" %}}PDF{{% /staticref %}}
+Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most recent syllabus. 
 
-* **POLI 205**: Doing Research in Politics: {{% staticref "files/DRPsyllabus.pdf" %}}PDF{{% /staticref %}}
+##### Undergraduate course 
 
-* **POLI 210**: Introduction to Public Administration: {{% staticref "files/POLI210-syllabus-final.pdf" %}}PDF{{% /staticref %}} 
+* [American Government](syllabi/AGfall18.pdf)
+* [Contemporary Political Issues: Climate Change](syllabi/POLI102-syllabus-final.pdf) 
+* [The Nuclear Option: The Politics of Nuclear Energy in the US](syllabi/FYEsyllabus.pdf)
+* [Doing Research in Politics](syllabi/DRPsyllabus.pdf)
+* [Introduction to Public Administration](syllabi/POLI210-syllabus-final.pdf)
+* [Introduction to Public Policy](POLI211-syllabus-final.pdf)
+* [Environmental Policy](syllabi/EPspring19.pdf)
+* [Capstone: Information and Policymaking](syllabi/CPsyllabus.pdf) 
 
-* **POLI 211**: Introduction to Public Policy: {{% staticref "files/POLI211NowlinSyllabus.pdf" %}}PDF{{% /staticref %}}
+##### Graduate 
 
-* **POLI 307**: Environmental Policy: {{% staticref "files/EPspring19.pdf" %}}PDF{{% /staticref %}}
-
-* **POLI 405**: Capstone: Information and Policymaking: {{% staticref "files/CPsyllabus.pdf" %}}PDF{{% /staticref %}}
-
-## Graduate 
-
-* **EVSS/PUBA 602**: Public Policy: {{% staticref "files/PPfall18.pdf" %}}PDF{{% /staticref %}} 
-
-* **EVSS 651 PUBA 551**: Research and Management in Environmental Organizations: {{% staticref "files/RMEOspring19.pdf" %}}PDF{{% /staticref %}} 
-
+* [Research and Management in Environmental Organizations](syllabi/RMEOspring19.pdf)

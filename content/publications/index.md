@@ -22,7 +22,9 @@ Nowlin, Matthew C. 2019. <a href="/publication/env-book/" itemprop="url"><span i
 
 ## Journal Articles 
 
-Nowlin, Matthew C., Kuhika Gupta, and Joseph T. Ripberger. 2020. <a href="/publication/carbon-tax/" itemprop="url"><span itemprop="name">Revenue Use and Public Support for a Carbon Tax. </span></a> _Envrionmental Research Letters_, forthcoming
+Nowlin, Matthew C., <a href="/publication/policy-learning/" itemprop="url"><span itemprop="name">Policy Learning and Information Processing. </span></a> _Policy Studies Journal_, forthcoming 
+
+Nowlin, Matthew C., Kuhika Gupta, and Joseph T. Ripberger. 2020. <a href="/publication/carbon-tax/" itemprop="url"><span itemprop="name">Revenue Use and Public Support for a Carbon Tax. </span></a> _Envrionmental Research Letters_, 15(8)
 
 Nowlin, Matthew C. and Thomas M. Rabovsky. 2020. <a href="/publication/ct-party/" itemprop="url"><span itemprop="name">A Cultural Theory of Partisanship and Policy Attitudes.</span></a> _Social Science Quarterly_, 101(2): 878-892.
 
