@@ -25,5 +25,8 @@ tags:
 
 ---
 
-### _Coming soon_
+
+### Publications 
+
+<a href="/publication/fed-public/" itemprop="url"><span itemprop="name">Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas. </span></a> 
 

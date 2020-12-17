@@ -21,7 +21,7 @@ library(vitae)
 # Academic Appointments 
 * Associate Professor of Political Science, College of Charleston \hspace*{\fill} 2019-Present
 * Faculty Affiliate, Sustainability Literacy Institute, College of Charleston \hspace*{\fill} 2017-Present
-* Research Fellow, Center for Public Choice and Market Process, College of Charleston \hspace*{\fill} 2014-2019 
+<!-- Research Fellow, Center for Public Choice and Market Process, College of Charleston \hspace*{\fill} 2014-2019 --> 
 * Assistant Professor of Political Science, College of Charleston \hspace*{\fill} 2013-2019
 * Graduate Research Assistant, Center for Applied Social Research, University of Oklahoma \hspace*{\fill} 2008-2013
 
@@ -37,14 +37,19 @@ library(vitae)
 # Publications 
 <!-- Research Interests: Policymaking Process, Energy and Environmental Policy and Politics, Policy and Public Opinion -->
 
+_Student collaborators underlined_ 
+
 ## Books 
 * **Nowlin, Matthew C.** 2019. _Environmental Policymaking in an Era of Climate Change_. New York, NY: Routledge. 
 
 ## Journal Articles
+* **Nowlin, Matthew C.**. 2020. "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences." _Public Understanding of Science_, forthcoming 
+* Wehde, Welsey and **Matthew C. Nowlin**. 2020. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas." _Publius: The Journal of Federalism_, forthcoming
 * **Nowlin, Matthew C.** 2020. "Policy Learning and Information Processing." _Policy Studies Journal_, forthcoming. 
-* **Nowlin, Matthew C.**, Kuhika Gupta, and Joseph T. Ripberger. 2020. "Revenue Use and Public Support for a Carbon Tax." _Envrionmental Research Letters_, 15(8). 
+* \underline{Bundrick Jr., M. Lee}, and **Matthew C. Nowlin**. 2020. "Place, Values, and Public Opinion About Climate Change in South Carolina." _Journal of Political Science_, 40: 85-109. 
+* **Nowlin, Matthew C.**, Kuhika Gupta, and Joseph T. Ripberger. 2020. "Revenue Use and Public Support for a Carbon Tax." _Environmental Research Letters_, 15(8).
 * **Nowlin, Matthew C.** and Thomas M. Rabovsky. 2020. "A Cultural Theory of Partisanship and Policy Attitudes." _Social Science Quarterly_, 101(2): 878-892.
-* Gupta, Kuhika, **Matthew C. Nowlin**, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." _Energy Policy_, 133: 
+* Gupta, Kuhika, **Matthew C. Nowlin**, Joseph T. Ripberger, Hank Jenkins-Smith, and Carol Silva. 2019. "Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data." _Energy Policy_, 133. 
 * **Nowlin, Matthew C.** and Thaddieus W. Conner. 2019. ```Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility.'' _Politics, Groups, and Identities_, 7(1): 21-38.
 * Conner, Thaddieus W., **Matthew C. Nowlin**, Thomas M. Rabovsky, and Joseph T. Ripberger. 2016.  ``Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration.'' _Public Administration_, 94(4): 915-932.
 * **Nowlin, Matthew C.** 2016. ``Modeling Issue Definitions using Quantitative Text Analysis.'' _Policy Studies Journal_, 44(3): 309-331.
@@ -71,9 +76,8 @@ library(vitae)
 * Jenkins-Smith, Hank C., Joseph T. Ripberger,  Gary Copeland, **Matthew C. Nowlin**,  Tyler Hughes, Aaron L. Fister, and Wesley Wehde. 2017. _Quantitative Research Methods for Political Science, Public Policy, and Public Administration_. University Libraries, University of Oklahoma. SHAREOK, Open Education Resource. DOI: \url{http://dx.doi.org/10.15763/11244/52244}
 
 ## In Progress 
-* Wehde, Welsey and **Matthew C. Nowlin**. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public." _Revise and Resubmit_, Publius: The Journal of Federalism 
-* **Nowlin, Matthew C.**. "Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences." _Revise and Resubmit_, Public Understanding of Science 
-* Bundrick, M. Lee and **Matthew C. Nowlin**. "Place, Values, and Public Opinion About Climate Change in South Carolina." _Under review_   
+* \underline{Hawes, Rachel} and **Matthew C. Nowlin**. " The Influence of Political Beliefs and Climate Change Beliefs on the Energy Preferences of the US Public." _Under review_ 
+* **Nowlin, Matthew C.**, Maren Trochmann, and Thomas Rabovsky. "Advocacy Coalitions and Political Control." _Under review_ 
 
 # Research Funding 
 ## External Funding 

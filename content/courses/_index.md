@@ -10,19 +10,24 @@ title: "Teaching"
 
 <!-- ![](me.jpg) --> 
 
-At the [College of Charleston](http://cofc.edu/), I have had the opportunity to teach courses at every level from freshman to a senior capstone course to graduate courses. Many of the courses I teach serve curriculum needs in several programs including political science, public administration, and environmental and sustainability studies. Regardless of the level, I try to guide students in becoming sophisticated users of information and engaged participants in social and political life.
+At the [College of Charleston](http://cofc.edu/), I have had the opportunity to teach courses at every level from freshman to a senior capstone course to graduate courses. Many of the courses I teach serve curriculum needs in several programs including political science, public administration, and environmental and sustainability studies. Regardless of the level, I try to guide students in becoming sophisticated users of information and engaged participants in social and political life. 
 
-### Current Courses 
+### Current Courses (spring 2021)
 
-<a href="/courses/capstone/" itemprop="url"><span itemprop="name">**POLI 405**: Capstone: Climate Change</span></a>
+**POLI 307**: Environmental Policy, _coming soon_
 
-<a href="/courses/policy602/" itemprop="url"><span itemprop="name">**EVSS/PUBA 602**: Public Policy</span></a>
+**EVSS-PUBA 551**: Research and Management in Environmental Organizations, _coming soon_
+
+<!-- <a href="/courses/capstone/" itemprop="url"><span itemprop="name">**POLI 405**: Capstone: Climate Change</span></a>
+
+<a href="/courses/policy602/" itemprop="url"><span itemprop="name">**EVSS/PUBA 602**: Public Policy</span></a> -->
+
 
 ### Past Courses 
 
 Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most recent syllabus. 
 
-##### Undergraduate course 
+##### Undergraduate 
 
 * [American Government](syllabi/AGfall18.pdf)
 * [Contemporary Political Issues: Climate Change](syllabi/POLI102-syllabus-final.pdf) 
@@ -31,8 +36,10 @@ Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most 
 * [Introduction to Public Administration](syllabi/POLI210-syllabus-final.pdf)
 * [Introduction to Public Policy](syllabi/POLI211-syllabus-final.pdf)
 * [Environmental Policy](syllabi/EPspring19.pdf)
-* [Capstone: Information and Policymaking](syllabi/CPsyllabus.pdf) 
+* [Capstone: Information and Policymaking](syllabi/CPsyllabus.pdf)
+* [Capstone: Climate Change](syllabi/nowlin-poli405-syllabus.pdf)
 
 ##### Graduate 
 
+* [Public Policy](syllabi/EVSS-PUBA602-syllabus-final.pdf)
 * [Research and Management in Environmental Organizations](syllabi/RMEOspring19.pdf)
