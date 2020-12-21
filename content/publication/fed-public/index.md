@@ -22,7 +22,7 @@ links:
 
 ### Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas
 
-Wehde, Welsey and **Matthew C. Nowlin**. 2020. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas" _Publius: The Journal of Federalism_, forthcoming, doi: <a href="https://doi.org/10.1111/psj.12397" itemprop="url">`10.1093/publius/pjaa037`</span></a> 
+Wehde, Welsey and **Matthew C. Nowlin**. 2020. "Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas" _Publius: The Journal of Federalism_, forthcoming, doi: <a href="https://doi.org/10.1093/publius/pjaa037" itemprop="url">`10.1093/publius/pjaa037`</span></a> 
 
 
 ##### Abstract 
