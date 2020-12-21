@@ -27,6 +27,8 @@ tags:
 
 ### Publications 
 
+<i class="far fa-file"></i> <a href="/publication/tech/" itemprop="url"><span itemprop="name">Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences. </span></a>
+
 <i class="far fa-file"></i> <a href="/publication/policy-learning/" itemprop="url"><span itemprop="name">Policy Learning and Information Processing. </span></a>
 
 <i class="fas fa-book"></i> <a href="/publication/env-book/" itemprop="url"><span itemprop="name">Environmental Policymaking in an Era of Climate Change.</span></a> 

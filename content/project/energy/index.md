@@ -27,6 +27,8 @@ tags:
 
 ### Publications 
 
+<i class="far fa-file"></i> <a href="/publication/tech/" itemprop="url"><span itemprop="name">Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences. </span></a>
+
 <i class="far fa-file"></i> <a href="/publication/nuclear-mood/" itemprop="url"><span itemprop="name">Tracking the Nuclear 'Mood' in the United States: Introducing a Long Term Measure of Public Opinion about Nuclear Energy Using Aggregate Survey Data.</span></a>
 
 <i class="far fa-file"></i> <a href="/publication/hot-rocks/" itemprop="url"><span itemprop="name">Hot Rocks that Shoot Ghost Bullets: Native American Perceptions of a Nuclear Waste Facility.</span></a>
