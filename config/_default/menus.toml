@@ -41,10 +41,10 @@
   url = "courses/"
   weight = 4
 
-[[main]]
-  name = "News & Notes"
-  url = "post/"
-  weight = 5
+# [[main]]
+#  name = "News & Notes"
+#  url = "post/"
+#  weight = 5
 
 # [[main]]
 #  name = "Courses"

@@ -12,7 +12,7 @@ title: "Teaching"
 
 At the [College of Charleston](http://cofc.edu/), I have had the opportunity to teach courses at every level from freshman to a senior capstone course to graduate courses. Many of the courses I teach serve curriculum needs in several programs including political science, public administration, and environmental and sustainability studies. Regardless of the level, I try to guide students in becoming sophisticated users of information and engaged participants in social and political life. 
 
-### Current Courses (spring 2021)
+### All Courses 
 
 **POLI 307**: Environmental Policy, _coming soon_
 
@@ -22,8 +22,6 @@ At the [College of Charleston](http://cofc.edu/), I have had the opportunity to 
 
 <a href="/courses/policy602/" itemprop="url"><span itemprop="name">**EVSS/PUBA 602**: Public Policy</span></a> -->
 
-
-### Past Courses 
 
 Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most recent syllabus. 
 
@@ -39,7 +37,11 @@ Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most 
 * [Capstone: Information and Policymaking](syllabi/CPsyllabus.pdf)
 * [Capstone: Climate Change](syllabi/nowlin-poli405-syllabus.pdf)
 
+##### Cross-listed undergraduate / graduate 
+
+* Governance of Social-Ecological Systems [<i class="fas fa-file-pdf"></i> undergraduate syllabus](syllabi/POLI443syllabus-undergrad-final.pdf) [<i class="fas fa-file-pdf"></i> graduate syllabus](syllabi/EVSS595syllabus-grad-final.pdf)
+
 ##### Graduate 
 
-* [Public Policy](syllabi/EVSS-PUBA602-syllabus-final.pdf)
+* [Public Policy](syllabi/EVSS-PUBA602-syllabus-final.pdf) [<i class="fab fa-github"></i> Course webpage](http://matthewcnowlin.com/evssPuba602/)
 * [Research and Management in Environmental Organizations](syllabi/RMEOspring19.pdf)
