@@ -22,7 +22,7 @@ At the [College of Charleston](http://cofc.edu/), I have had the opportunity to 
 
 ##### Recent Courses
 
-* Introduction to Public Policy: [<i class="fas fa-file-pdf"></i> syllabus fall 2021 ](syllabi/POLI211-syllabus-final.pdf)
+* Introduction to Public Policy: [<i class="fas fa-file-pdf"></i> syllabus fall 2021 ](syllabi/POLI211-syllabus-final.pdf) [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/poli211)
 * Environmental Policy: [<i class="fas fa-file-pdf"></i> syllabus spring 2021](syllabi/POLI307-syllabus-final.pdf)
 
 
@@ -40,9 +40,9 @@ Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most 
 
 ### Cross-listed undergraduate / graduate 
 
-* Governance of Social-Ecological Systems: [<i class="fas fa-file-pdf"></i> undergraduate syllabus fall 2021](syllabi/POLI443syllabus-undergrad-final.pdf) [<i class="fas fa-file-pdf"></i> graduate syllabus fall 2021](syllabi/EVSS595syllabus-grad-final.pdf)
+* Governance of Social-Ecological Systems: [<i class="fas fa-file-pdf"></i> undergraduate syllabus fall 2021](syllabi/POLI443syllabus-undergrad-final.pdf) [<i class="fas fa-file-pdf"></i> graduate syllabus fall 2021](syllabi/EVSS595syllabus-grad-final.pdf) [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/poli443)
 
 ### Graduate 
 
-* Public Policy: [<i class="fas fa-file-pdf"></i> syllabus fall 2021](syllabi/EVSS-PUBA602-syllabus-final.pdf) [<i class="fab fa-github"></i> course webpage](http://matthewcnowlin.com/evssPuba602/)
+* Public Policy: [<i class="fas fa-file-pdf"></i> syllabus fall 2021](syllabi/EVSS-PUBA602-syllabus-final.pdf) [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/evssPuba602)
 * Research and Management in Environmental Organizations: [<i class="fas fa-file-pdf"></i> syllabus spring 2021](syllabi/EVSS-PUBA551-syllabus-final.pdf)
