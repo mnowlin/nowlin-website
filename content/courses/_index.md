@@ -25,7 +25,6 @@ At the [College of Charleston](http://cofc.edu/), I have had the opportunity to 
 * Introduction to Public Policy 
   * [<i class="fas fa-file-pdf"></i> syllabus fall 2021 ](syllabi/POLI211-syllabus-final.pdf) 
   * [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/poli211)
-
 * Environmental Policy 
   * [<i class="fas fa-file-pdf"></i> syllabus spring 2021](syllabi/POLI307-syllabus-final.pdf)
 
@@ -54,6 +53,5 @@ Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most 
 * Public Policy
   * [<i class="fas fa-file-pdf"></i> syllabus fall 2021](syllabi/EVSS-PUBA602-syllabus-final.pdf) 
   * [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/evssPuba602)
-
 * Research and Management in Environmental Organizations
   * [<i class="fas fa-file-pdf"></i> syllabus spring 2021](syllabi/EVSS-PUBA551-syllabus-final.pdf)
