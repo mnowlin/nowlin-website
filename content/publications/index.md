@@ -22,15 +22,17 @@ Nowlin, Matthew C. 2019. <a href="/publication/env-book/" itemprop="url"><span i
 
 ## Journal Articles 
 
+Hawes, Rachel and Matthew C. Nowlin. 2021. "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States." _Energy Research and Social Science_, forthcoming 
+
 Nowlin, Matthew C., Maren Trochmann, and Thomas Rabovsky. 2021. "Advocacy Coalitions and Political Control." _Politics and Policy_, forthcoming
 
-Nowlin, Matthew C. and Wesley Wehde. 2021. "Social Capital and Hurricane Warning Response." _International Journal of Disaster Risk Reduction_, forthcoming.
+Nowlin, Matthew C. and Wesley Wehde. 2021. "Social Capital and Hurricane Warning Response." _International Journal of Disaster Risk Reduction_, 65.
+
+Nowlin, Matthew C., <a href="/publication/policy-learning/" itemprop="url"><span itemprop="name">Policy Learning and Information Processing. </span></a> _Policy Studies Journal_, 49(4): 1019-1039.  
 
 Wehde, Welsey and Matthew C. Nowlin. 2021. <a href="/publication/fed-public/" itemprop="url"><span itemprop="name">Public Attribution of Responsibility for Disaster Preparedness across Three Levels of Government and the Public: Lessons from a Survey of Residents of the U.S. South Atlantic and Gulf Coast Areas. </span></a> _Publius: The Journal of Federalism_, 51(2): 212-237. 
 
 Nowlin, Matthew C. 2020. <a href="/publication/tech/" itemprop="url"><span itemprop="name">Political Beliefs, Views about Technocracy, and Energy and Climate Policy Preferences. </span></a> _Public Understanding of Science_, 30(3): 331-348.
-
-Nowlin, Matthew C., <a href="/publication/policy-learning/" itemprop="url"><span itemprop="name">Policy Learning and Information Processing. </span></a> _Policy Studies Journal_, forthcoming 
 
 Nowlin, Matthew C., Kuhika Gupta, and Joseph T. Ripberger. 2020. <a href="/publication/carbon-tax/" itemprop="url"><span itemprop="name">Revenue Use and Public Support for a Carbon Tax. </span></a> _Envrionmental Research Letters_, 15(8)
 
