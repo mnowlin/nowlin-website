@@ -22,9 +22,11 @@ Nowlin, Matthew C. 2019. <a href="/publication/env-book/" itemprop="url"><span i
 
 ## Journal Articles 
 
-Hawes, Rachel and Matthew C. Nowlin. 2021. "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States." _Energy Research and Social Science_, forthcoming 
+Nowlin, Matthew C. 2022. "Who Should 'Do More' about Climate Change? Cultural Theory, Polycentricity, and Public Support for Climate Change Actions across Actors and Governments." _Review of Policy Research_, forthcoming 
 
-Nowlin, Matthew C., Maren Trochmann, and Thomas Rabovsky. 2021. "Advocacy Coalitions and Political Control." _Politics and Policy_, forthcoming
+Nowlin, Matthew C., Maren Trochmann, and Thomas Rabovsky. 2022. "Advocacy Coalitions and Political Control." _Politics and Policy_, forthcoming
+
+Hawes, Rachel and Matthew C. Nowlin. 2022. "Climate Science or Politics? Disentangling the Roles of Citizen Beliefs and Support for Energy in the United States." _Energy Research and Social Science_, 85. 
 
 Nowlin, Matthew C. and Wesley Wehde. 2021. "Social Capital and Hurricane Warning Response." _International Journal of Disaster Risk Reduction_, 65.
 

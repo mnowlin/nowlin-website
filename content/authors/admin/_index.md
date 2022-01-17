@@ -47,7 +47,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/nowlin-cv-short.pdf
+  link: https://www.dropbox.com/s/nm5uajd5txnhg6v/nowlin-cv-short.pdf?dl=0 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
