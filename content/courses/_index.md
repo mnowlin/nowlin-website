@@ -23,11 +23,11 @@ At the [College of Charleston](http://cofc.edu/), I have had the opportunity to 
 ##### Recent Courses
 
 * Introduction to Public Policy 
-  * [<i class="fas fa-file-pdf"></i> syllabus fall 2021 ](syllabi/POLI211-syllabus-final.pdf) 
+  * [<i class="fas fa-file-pdf"></i> syllabus spring 2022 ](https://www.dropbox.com/s/1w7o2hh9tm6brur/POLI211-syllabus-final.pdf?dl=0) 
   * [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/poli211)
 * Environmental Policy 
-  * [<i class="fas fa-file-pdf"></i> syllabus spring 2021](syllabi/POLI307-syllabus-final.pdf)
-
+  * [<i class="fas fa-file-pdf"></i> syllabus spring 2022](https://www.dropbox.com/s/tsz4o1gj111q2kk/POLI307-syllabus-final.pdf?dl=0)
+  * [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/poli-307)
 
 ##### Older courses 
 
@@ -50,6 +50,9 @@ Click on the course title for a <i class="fas fa-file-pdf"></i> pdf of the most 
 
 ### Graduate 
 
+* Environmental Law and Regulatory Policy 
+  * [<i class="fas fa-file-pdf"></i> syllabus spring 2022](https://www.dropbox.com/s/87rticvwkab5zn7/EVSS-PUBA534-syllabus-final.pdf?dl=0) 
+  * [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/evssPuba534) 
 * Public Policy
   * [<i class="fas fa-file-pdf"></i> syllabus fall 2021](syllabi/EVSS-PUBA602-syllabus-final.pdf) 
   * [<i class="fab fa-github"></i> course materials](https://github.com/mnowlin/evssPuba602)
