@@ -65,6 +65,7 @@ user_groups:
 I am an associate professor of [political science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). For academic year 2022-2023, I am the interim director of the [Master of Public Administration](https://puba.cofc.edu/) program at the College of Charleston.
 
 
+
 <!-- 
 I am also co-director of the [Environmental Policy Research Group](http://polisci.cofc.edu/student-research/environmental-policy-research-group/index.php) with [Dr. Annette Watson](http://polisci.cofc.edu/about/faculty-staff-listing/watson-annette.php).  
 -->
