@@ -48,6 +48,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://www.dropbox.com/s/nm5uajd5txnhg6v/nowlin-cv-short.pdf?dl=0 
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/j7nbz/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,7 +62,11 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor of [political science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). I am also co-director of the [Environmental Policy Research Group](http://polisci.cofc.edu/student-research/environmental-policy-research-group/index.php) with [Dr. Annette Watson](http://polisci.cofc.edu/about/faculty-staff-listing/watson-annette.php).  
+I am an associate professor of [political science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). For academic year 2022-2023, I am the interim director of the [Master of Public Administration](https://puba.cofc.edu/) program at the College of Charleston.
+
+<!-- 
+I am also co-director of the [Environmental Policy Research Group](http://polisci.cofc.edu/student-research/environmental-policy-research-group/index.php) with [Dr. Annette Watson](http://polisci.cofc.edu/about/faculty-staff-listing/watson-annette.php).  
+-->
 
 My <a href="/projects/" itemprop="url"><span itemprop="name">research</span></a> and <a href="/courses/" itemprop="url"><span itemprop="name">teaching</span></a> interests are in public policy, with a specific interest in environmental policy and politics. My work includes such areas as <a href="/project/climate-change/" itemprop="url"><span itemprop="name">climate change</span></a>, <a href="/project/cultural-theory/" itemprop="url"><span itemprop="name">cultural theory</span></a>, <a href="/project/deliberation/" itemprop="url"><span itemprop="name">deliberation</span></a>, <a href="/project/energy/" itemprop="url"><span itemprop="name">energy</span></a>, <a href="/project/natural-hazards/" itemprop="url"><span itemprop="name">natural hazards</span></a>, and the <a href="/project/policy-process/" itemprop="url"><span itemprop="name">policymaking process</span></a>. 
 
